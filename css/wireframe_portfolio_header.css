@@ -9,13 +9,13 @@ header
     height: 80px;
     line-height: 80px;
     background-color: #f5f5f5;
-    border-bottom: 4px solid #ff9c62;
+    border-bottom: 4px solid #a52a2b;
 
 }
 
 .HeaderLink
 {
-    color: #ff628e;
+    color: #2aa5a5;
 }
 
 #ContentHeader
@@ -26,9 +26,10 @@ header
 
 #HeaderS1
 {
-    background-color: #62ffa6;
+    background-color: #68a52a;
+    font-weight: bolder;
     float: left;
-    color: #444444;
+    color: #f5f5f5;
     width: 200px;
     font-size: 30px;
     text-align: center;

@@ -35,3 +35,20 @@ article
     height: 220px;
     border-bottom: 3px ridge #444444;  
 }
+
+.BodyHeader
+{
+    font-size: 28px;
+    height: 50px;
+    width: 97%;
+    margin: 15px auto;
+    text-align: left;
+    border-bottom: 5px solid #68a52a;
+    opacity: 50%;
+    font-weight: bold;
+}
+
+/* .BodyLinks
+{
+
+} */

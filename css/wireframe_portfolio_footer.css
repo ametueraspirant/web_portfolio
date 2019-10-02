@@ -4,7 +4,7 @@ footer
     height: 80px;
     line-height: 130px;
     background-color: #555555;
-    border-top: 4px solid #ff9c62 ;
+    border-top: 4px solid #a52a2b ;
     overflow: hidden;
 }
 
@@ -15,5 +15,5 @@ footer
     color: #f5f5f5;
     font-size: 15px;
     text-align: center;
-    color: #ff628e;
+    color: #2aa5a5;
 }
